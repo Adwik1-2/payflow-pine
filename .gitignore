@@ -1,0 +1,6 @@
+.env
+data/*.db
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+live-test-result.txt
